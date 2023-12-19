@@ -5,15 +5,16 @@
 <!-- ############################# -->
 
 <!-- Preview MiuiAOSP Project Logo -->
-<img align="right" width="30%" src="https://github.com/BlazeWizardOP/MiuiAOSP/assets/134801431/e86a7554-145f-445e-9a66-c428a1f0c027">
+<img align="right" width="30%" src="(https://github.com/MiuiAOSP/MiuiAOSP/assets/90389157/0448cfd4-f3da-4535-b1d5-c97e462ce6e6)">
+
 
 ### About Our Project:
 - Our Aim Is To Develop Amazing Projects For Miui & HyperOS!
 - We Make AOSP Stuffs Like Layouts, etc. For Miui & HyperOS!
 
 ### Important Notice:
-- Please Read All Project Changelogs & Features Before Flashing Our Stuff!
-- Join Our Support Groups For Better Experience, Proper Flashing Guides & Faster Updates
+- Please Read All Project Changelogs & Features!
+- Join Our Support Groups For Better Experience, Proper Guides & Faster Updates
 - Subscribe Our YouTube Channel For Better Learning Stuffs
 
 ### Project Contributer(s):
