@@ -22,12 +22,8 @@
 
 ### Join Our Official Channel(s)
 - [MiuiAOSP](https://t.me/MiuiAOSP)
-- 
 ### Our Group Link(s):
-- [NothingOS Updater Channel](https://t.me/NothingOSUpdater)
-- [Nothing Phone (2) Updates](https://t.me/NothingPhone2updates)
-- [Nothing Phone (2) Global Support](https://t.me/NothingPhone2)
-- [NothingOS Phone (2) India Support](https://t.me/NothingPhone2_IN)
+- [MiuiAOSP_Discussion]([https://t.me/MiuiAOSP_Discussions)
 
 ### How To Download Our Stuff?
 - Check Out Our [Releases](https://github.com/BlazeWizardOP/MiuiAOSP/releases) Pages For More Information!
