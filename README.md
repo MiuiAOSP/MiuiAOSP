@@ -5,7 +5,7 @@
 <!-- ############################# -->
 
 <!-- Preview MiuiAOSP Project Logo -->
-<img align="right" width="30%" src="![Dark Purple Modern Letter M Logo_20231218_023252_0000](https://github.com/MiuiAOSP/MiuiAOSP/assets/90389157/88a0d9ec-28f1-465b-b14d-344058223f48)
+<img align="right" width="30%" src="(https://github.com/MiuiAOSP/MiuiAOSP/assets/90389157/88a0d9ec-28f1-465b-b14d-344058223f48)
 
 
 
