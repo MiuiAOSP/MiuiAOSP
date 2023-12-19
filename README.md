@@ -23,7 +23,7 @@
 ### Join Our Official Channel(s)
 - [MiuiAOSP](https://t.me/MiuiAOSP)
 ### Our Group Link(s):
-- [MiuiAOSP_Discussion]([https://t.me/MiuiAOSP_Discussions)
+- [MiuiAOSP_Discussion](https://t.me/MiuiAOSP_Discussions)
 
 ### How To Download Our Stuff?
 - Check Out Our [Releases](https://github.com/BlazeWizardOP/MiuiAOSP/releases) Pages For More Information!
