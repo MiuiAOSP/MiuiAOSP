@@ -28,7 +28,7 @@
 - [MiuiAOSP_Discussion](https://t.me/MiuiAOSP_Discussions)
 
 ### How To Download Our Stuff?
-- Check Out Our [Releases](https://github.com/MiuiAOSP/MiuiAOSP/releases) Pages For More Information!
+- Check Out Our [Releases](https://github.com/MiuiAOSP/MiuiAOSP/releases/tag/HyperOsAboutDevice) Pages For More Information!
 
 <!-- ############################# -->
 <!-- Start Segment 03 Of README.MD -->
